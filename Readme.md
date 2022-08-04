@@ -1,4 +1,4 @@
-#Custom subgraph in Peaq network
+# Custom subgraph in Peaq network
 
 for the guide i followed to make this check https://medium.com/coinmonks/deploy-subgraphs-to-any-evm-aaaccc3559f
 
