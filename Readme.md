@@ -1,5 +1,7 @@
 #Custom subgraph in Peaq network
 
+for the guide i followed to make this check https://medium.com/coinmonks/deploy-subgraphs-to-any-evm-aaaccc3559f
+
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Running](#running)
