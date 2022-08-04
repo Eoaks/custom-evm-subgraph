@@ -1,0 +1,6 @@
+type PeaqyBlinder @entity {
+  id: ID!
+  name: String!
+  address: Bytes!
+  addedBy: Bytes!
+}
